@@ -3,6 +3,7 @@
 🚀 **Tech Lead | Senior AI & Machine Learning Engineer**  
 Turning complex AI workflows into simple, reliable, scalable solutions.  
 🌐 [leonardoburbano.com](https://leonardoburbano.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/leoburbano/)  
 📍 Based in Latin America (Global reach)  
 📫 Reach me on LinkedIn or DM for collaboration  
 
@@ -36,12 +37,12 @@ I design and build end-to-end AI systems where engineering meets intelligence. M
 ### 📌 Tech Lead Skills  
 Here are some of the key abilities I bring as a Tech Lead in software development:
 
-- **Technical Leadership & Architecture**: I define scalable, maintainable software architectures and guide technical strategy. :contentReference[oaicite:0]{index=0}  
-- **Code Quality & Standards**: I establish best practices, code review workflows, CI/CD pipelines, technical-debt management. :contentReference[oaicite:1]{index=1}  
-- **Mentoring & Team Growth**: I coach engineers, facilitate knowledge sharing, enable team ownership and growth. :contentReference[oaicite:2]{index=2}  
-- **Project Delivery & Execution**: I break down features, estimate tasks, manage risks, align with business goals to deliver on time. :contentReference[oaicite:3]{index=3}  
-- **Communication & Stakeholder Engagement**: I translate complex technical concepts into business language, manage expectations, and build alignment. :contentReference[oaicite:4]{index=4}  
-- **Continuous Learning & Innovation**: I stay current with emerging technologies, encourage experimentation, and drive improvement. :contentReference[oaicite:5]{index=5}  
+- **Technical Leadership & Architecture**: I define scalable, maintainable software architectures and guide technical strategy.  
+- **Code Quality & Standards**: I establish best practices, code review workflows, CI/CD pipelines, technical-debt management.  
+- **Mentoring & Team Growth**: I coach engineers, facilitate knowledge sharing, enable team ownership and growth.  
+- **Project Delivery & Execution**: I break down features, estimate tasks, manage risks, align with business goals to deliver on time.  
+- **Communication & Stakeholder Engagement**: I translate complex technical concepts into business language, manage expectations, and build alignment.  
+- **Continuous Learning & Innovation**: I stay current with emerging technologies, encourage experimentation, and drive improvement.  
 
 ---
 
