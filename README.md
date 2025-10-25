@@ -43,6 +43,7 @@ Here are some of the key abilities I bring as a Tech Lead in software developmen
 - **Project Delivery & Execution**: I break down features, estimate tasks, manage risks, align with business goals to deliver on time.  
 - **Communication & Stakeholder Engagement**: I translate complex technical concepts into business language, manage expectations, and build alignment.  
 - **Continuous Learning & Innovation**: I stay current with emerging technologies, encourage experimentation, and drive improvement.  
+- **CI/CD & DevOps Proficiency**: I design, implement and optimise Continuous Integration/Continuous Deployment pipelines; automate build-test-deploy workflows; integrate quality, security and operations practices into the delivery lifecycle.  
 
 ---
 
