@@ -19,7 +19,7 @@ I design and build end-to-end AI systems where engineering meets intelligence. M
 ---
 
 ### 🔭 Current Flagship Projects  
-- **Navbe AI** – Open-source testing & monitoring for voice, chat & sales AI agents.  
+- **Navbe AI** – Open-source workflow orchestrator and brain for AI agents and teams.  
 - AI-powered SEO Agents – Automated workflows using n8n to optimize content and search performance.  
 - Intelligent eCommerce Agents – AI systems for inventory, support and sales automation in eCommerce contexts.  
 - Small-LLM Fine-Tuning – Domain-specific LLMs with optimized performance and resource use.  
