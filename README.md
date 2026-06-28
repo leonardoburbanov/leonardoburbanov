@@ -4,6 +4,7 @@
 Turning complex AI workflows into simple, reliable, scalable solutions.  
 🌐 [leonardoburbano.com](https://leonardoburbano.com/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/leoburbano/)  
+🔗 [Instagram](https://www.instagram.com/leo.burbano.ai/)  
 📍 Based in Latin America (Global reach)  
 📫 Reach me on LinkedIn or DM for collaboration  
 
