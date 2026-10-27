@@ -1,70 +1,40 @@
-## Hi there 👋 I'm Leonardo Burbano  
+## Hi, I'm Leonardo Burbano 👋
 
-🚀 **Tech Lead | Senior AI & Machine Learning Engineer**  
-Turning complex AI workflows into simple, reliable, scalable solutions.  
-🌐 [leonardoburbano.com](https://leonardoburbano.com/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/leoburbano/)  
-🔗 [Instagram](https://www.instagram.com/leo.burbano.ai/)  
-📍 Based in Latin America (Global reach)  
-📫 Reach me on LinkedIn or DM for collaboration  
+**Senior AI Engineer & Tech Lead at [Mercately](https://mercately.com) (Techstars).** I build production LLM agents that sell.
 
----
+- 🤖 Multi-agent sales systems on WhatsApp, Instagram and Messenger: **1M+ requests/day** for **1,500+ businesses in 20+ countries**
+- 💸 Multi-provider LLM routing (OpenAI, Anthropic, Gemini): **50% lower inference cost** with no drop in quality
+- ✅ Agent evaluation framework that gates every prompt and model release
+- 👥 Lead a team of 7 AI engineers, from research to production
 
-### 🧠 About Me  
-I design and build end-to-end AI systems where engineering meets intelligence. My core expertise spans:  
-- Backend + API development with **Python**, **FastAPI**, **PostgreSQL**  
-- Modern web + frontend tools like **React**, **Next.js**, **TypeScript**  
-- AI/ML technologies: **PyTorch**, **Hugging Face**, **LLMs**, **LangChain**, **LangGraph**  
-- Automation & orchestration: **n8n**, **Docker**, large-scale ML workflows  
+Before that: **Taxflow / Houston AI** (SF), 10x faster tax-document-to-form conversion · **Thoughtworks**, $1M+ saved for a major airline with ML stock-out alerts.
+
+🌐 [leonardoburbano.com](https://leonardoburbano.com) · 💼 [LinkedIn](https://www.linkedin.com/in/leoburbano/) · 📍 Quito, Ecuador
 
 ---
 
-### 🔭 Current Flagship Projects  
-- **Navbe AI** – Open-source workflow orchestrator and brain for AI agents and teams.  
-- AI-powered SEO Agents – Automated workflows using n8n to optimize content and search performance.  
-- Intelligent eCommerce Agents – AI systems for inventory, support and sales automation in eCommerce contexts.  
-- Small-LLM Fine-Tuning – Domain-specific LLMs with optimized performance and resource use.  
+### 🔭 Open-source projects
+
+| Project | What it is |
+|---|---|
+| [**Navbe**](https://github.com/leonardoburbanov/navbe_ai) | Local-first workflow orchestration for AI agents: MCP, schedules and HTTP in one daemon (FastAPI, FastMCP, LangGraph) |
+| [**Gemini Enterprise Agent Workshop**](https://github.com/leonardoburbanov/gemini-enterprise-agent-platform-workshop) | Build and deploy a multi-agent sales assistant with Google ADK and Agent Runtime. Taught at GDG Build with AI 2026 |
+| [**Small LLM fine-tune**](https://github.com/leonardoburbanov/small-llm-advanced) | Qwen3 0.6B fine-tuned in PyTorch on a laptop GPU to emit shop actions as JSON |
+| [**Embeddings: Lente**](https://github.com/leonardoburbanov/embeddings_rag) | Multimodal product search with Gemini and Cohere embeddings in Qdrant |
+| [**LLMs from scratch**](https://github.com/leonardoburbanov/llms-study) | Word vectors → attention → transformers → a small GPT |
 
 ---
 
-### 🧩 Tech Stack  
-**Languages**: Python, JavaScript/TypeScript, SQL  
-**Frameworks/Tools**: FastAPI, Next.js, React, Docker  
-**AI/ML**: PyTorch, Transformers, LlamaIndex, LangChain, LangGraph, MLFlow, Databricks  
-**Automation/Orchestration**: n8n, Docker, Pub/Sub workflows, Temporal  
+### 🎤 Talks
+
+- **Google DevFest Quito 2026**: *Mercately + Gemini: one startup, one model, thousands of businesses selling with AI on WhatsApp* (2,700+ attendees)
+- **Build with AI 2026**, GDG Quito and GDG Cuenca: hands-on multi-agent workshops with Google ADK
+- **Ecuador Tech Week 2026**: panel on agentic AI in companies
 
 ---
 
-### 📌 Tech Lead Skills  
-Here are some of the key abilities I bring as a Tech Lead in software development:
+### 🧩 Stack
 
-- **Technical Leadership & Architecture**: I define scalable, maintainable software architectures and guide technical strategy.  
-- **Code Quality & Standards**: I establish best practices, code review workflows, CI/CD pipelines, technical-debt management.  
-- **Mentoring & Team Growth**: I coach engineers, facilitate knowledge sharing, enable team ownership and growth.  
-- **Project Delivery & Execution**: I break down features, estimate tasks, manage risks, align with business goals to deliver on time.  
-- **Communication & Stakeholder Engagement**: I translate complex technical concepts into business language, manage expectations, and build alignment.  
-- **Continuous Learning & Innovation**: I stay current with emerging technologies, encourage experimentation, and drive improvement.  
-- **CI/CD & DevOps Proficiency**: I design, implement and optimise Continuous Integration/Continuous Deployment pipelines; automate build-test-deploy workflows; integrate quality, security and operations practices into the delivery lifecycle.  
-
----
-
-### 🌱 What I’m Exploring Next  
-- Robust LLMOps frameworks for multi-agent systems  
-- Comprehensive observability & evaluation pipelines for AI agents  
-- Cost-efficient retrieval + generation architectures (RAG + tool usage)  
-- Scalability and engineering maturity for AI-driven products  
-
----
-
-### ⚡ Fun Facts  
-- I’ve automated my inbox—and built the workflow behind it.  
-- I view every LangGraph node as a living software component, not just a “function”.  
-- I believe every AI agent deserves a dashboard, metrics, logs & test suite.  
-
----
-
-💡 **Let’s build something impactful together** — if you’re into AI infrastructure, agent-based systems, automation or innovative tools, give me a shout.  
-
----
-
-Thank you for stopping by! 👏  
+**AI:** LangGraph · LangChain · Google ADK · MCP · RAG · PyTorch · Hugging Face · evals & observability
+**Backend:** Python · FastAPI · TypeScript · NestJS · Next.js
+**Data & cloud:** Google Cloud · AWS · Azure · BigQuery · Databricks · MLflow · Qdrant
